@@ -1,5 +1,7 @@
 # Image showcase
 
+Run the server with `node main.js` in the command line.
+
 A SUPER basic image viewer. Server serves the images that are supplied in the `/public/images` folder.
 
 To change the path, change the lines:
