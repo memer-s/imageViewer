@@ -1,4 +1,4 @@
-# Bild Visare
+# Image showcase
 
 A SUPER basic image viewer. Server serves the images that are supplied in the `/public/images` folder.
 
